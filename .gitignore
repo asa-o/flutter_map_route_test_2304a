@@ -48,5 +48,6 @@ app.*.map.json
 **/*.freezed.dart
 local.properties
 /lib/gen/
+secret.properties
 
 .gradle/
